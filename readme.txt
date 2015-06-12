@@ -1,0 +1,1 @@
+The analysis part of the homework is in anaysis.txt file, and all expanations for other supporting files are in analysis.txt as well. 

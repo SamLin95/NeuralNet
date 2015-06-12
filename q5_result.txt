@@ -1,0 +1,60 @@
+start testing PenData.....
+start iteration 0......
+Starting training at time 22:26:50.910135 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 82 iterations at time 22:27:38.127006 with training error 0.002814 and weight change 0.000080
+Feed Forward Test correctly classified 3155, incorrectly classified 343, test percent error  0.901944
+
+start iteration 1......
+Starting training at time 22:27:38.322452 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 75 iterations at time 22:28:21.108392 with training error 0.002813 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test percent error  0.903945
+
+start iteration 2......
+Starting training at time 22:28:21.260133 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 60 iterations at time 22:28:55.557532 with training error 0.002883 and weight change 0.000080
+Feed Forward Test correctly classified 3118, incorrectly classified 380, test percent error  0.891366
+
+start iteration 3......
+Starting training at time 22:28:55.695765 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 62 iterations at time 22:29:31.213427 with training error 0.002984 and weight change 0.000080
+Feed Forward Test correctly classified 3106, incorrectly classified 392, test percent error  0.887936
+
+start iteration 4......
+Starting training at time 22:29:31.351144 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 65 iterations at time 22:30:08.397548 with training error 0.002762 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+test over ......
+average: 0.898113
+stDeviation: 0.007078
+max: 0.905374
+start testing CarData.....
+start iteration 0......
+Starting training at time 22:30:08.544489 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 22:30:11.018706 with training error 0.002960 and weight change 0.000128
+Feed Forward Test correctly classified 1335, incorrectly classified 193, test percent error  0.873691
+
+start iteration 1......
+Starting training at time 22:30:11.104512 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 22:30:13.462496 with training error 0.003866 and weight change 0.000133
+Feed Forward Test correctly classified 1322, incorrectly classified 206, test percent error  0.865183
+
+start iteration 2......
+Starting training at time 22:30:13.503873 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 22:30:15.869285 with training error 0.004081 and weight change 0.000149
+Feed Forward Test correctly classified 1340, incorrectly classified 188, test percent error  0.876963
+
+start iteration 3......
+Starting training at time 22:30:15.910560 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 22:30:18.285518 with training error 0.004941 and weight change 0.000122
+Feed Forward Test correctly classified 1327, incorrectly classified 201, test percent error  0.868455
+
+start iteration 4......
+Starting training at time 22:30:18.326502 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 201 iterations at time 22:30:20.698783 with training error 0.003205 and weight change 0.000110
+Feed Forward Test correctly classified 1333, incorrectly classified 195, test percent error  0.872382
+
+test over ......
+average: 0.871335
+stDeviation: 0.004110
+max: 0.876963

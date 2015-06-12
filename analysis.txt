@@ -1,0 +1,9 @@
+Question 5:
+The script for running question 5 is in the file q5test.py, and the all the output into console is in the file q5_result.txt. For PenData: average is 0.898113, standard deviation is 0.007078, and max is 0.905374. For CarData: average is 0.871335, standard deviation is 0.004110, and max is 0.876963.
+
+Question 6:
+The script for running question 6 is in the file q6test.py, and the all ouput on console is stored in q7_result.txt. Also the spreadsheet of the all result data is in the file question6_spreadsheet.xlsx, which also included a chart of all the result. As we can see in the spreadsheet, the accuracy increase tremendously as from no hidden layer to hidden layer of neuron number of 5. Then the accuracy increase slightly, as we add more neurons in the hidden layer. However, as the neuron number increases, the accuracy still fluctuate a little bit. 
+
+Question 7:
+The script for training Xor function is in the file trainXor.py, and all output on console is in the file xOr_result.txt. 
+When I first train xOr function using the neuron net without hiddenLayers, the training never stop until it reaches the limit for iteration, which is 10000. Also, the trained neuralNet did not give the correct result for xOr function. So I can conclude that neuronNet with no hidden layer can not train non linear function as Xor function. Then as the I add the hidden layer and increase the number of perceptrons, when the perceptron number reaches 2 the accuracy is then 1.00 and the train error decrease to a very low level. Then in all following training, as number of perceptron increase, they all train xOr function successfully. 

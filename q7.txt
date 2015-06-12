@@ -1,0 +1,266 @@
+Starting training at time 14:05:34.234567 with 2 inputs, 1 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:05:34.446435 with training error 0.125784 and weight change 0.012539
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Starting training at time 14:05:34.446760 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:05:34.915728 with training error 0.110105 and weight change 0.003757
+Feed Forward Test correctly classified 3, incorrectly classified 1, test percent error  0.750000
+
+Starting training at time 14:05:34.916127 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:05:35.223998 with training error 0.003756 and weight change 0.000240
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:35.224415 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 9019 iterations at time 14:05:35.683358 with training error 0.001812 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:35.683752 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:05:36.119195 with training error 0.001027 and weight change 0.000085
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:36.119673 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 8466 iterations at time 14:05:36.574735 with training error 0.001247 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:36.575123 with 2 inputs, 1 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 8943 iterations at time 14:05:37.136002 with training error 0.001487 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:37.136441 with 2 inputs, 1 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 7555 iterations at time 14:05:37.694893 with training error 0.001725 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:37.695341 with 2 inputs, 1 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 6216 iterations at time 14:05:38.211405 with training error 0.001649 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:38.211811 with 2 inputs, 1 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 6405 iterations at time 14:05:38.813831 with training error 0.001754 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:38.814381 with 2 inputs, 1 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 6584 iterations at time 14:05:39.482830 with training error 0.001548 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:39.483250 with 2 inputs, 1 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 8012 iterations at time 14:05:40.354904 with training error 0.001411 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:40.355391 with 2 inputs, 1 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 5748 iterations at time 14:05:41.054959 with training error 0.001891 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:41.055527 with 2 inputs, 1 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 6809 iterations at time 14:05:41.931933 with training error 0.001617 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:41.932363 with 2 inputs, 1 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 7152 iterations at time 14:05:42.921954 with training error 0.001461 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:05:42.922392 with 2 inputs, 1 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Starting training at time 14:06:27.836151 with 2 inputs, 1 outputs, [] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:28.091645 with training error 0.126577 and weight change 0.008385
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Starting training at time 14:06:28.091955 with 2 inputs, 1 outputs, [0] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:28.243060 with training error 0.125784 and weight change 0.012539
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Starting training at time 14:06:28.243434 with 2 inputs, 1 outputs, [1] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:28.564989 with training error 0.124956 and weight change 0.004084
+Feed Forward Test correctly classified 1, incorrectly classified 3, test percent error  0.250000
+
+Starting training at time 14:06:28.565381 with 2 inputs, 1 outputs, [2] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:28.837426 with training error 0.003755 and weight change 0.000321
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:28.837769 with 2 inputs, 1 outputs, [3] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:29.160749 with training error 0.126364 and weight change 0.002524
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Starting training at time 14:06:29.161135 with 2 inputs, 1 outputs, [4] hidden layers, size of training set 4, and size of test set 4
+Finished after 10001 iterations at time 14:06:29.591295 with training error 0.004133 and weight change 0.000242
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:29.591669 with 2 inputs, 1 outputs, [5] hidden layers, size of training set 4, and size of test set 4
+Finished after 7584 iterations at time 14:06:29.962321 with training error 0.001410 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:29.962683 with 2 inputs, 1 outputs, [6] hidden layers, size of training set 4, and size of test set 4
+Finished after 7507 iterations at time 14:06:30.373037 with training error 0.001243 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:30.373403 with 2 inputs, 1 outputs, [7] hidden layers, size of training set 4, and size of test set 4
+Finished after 6702 iterations at time 14:06:30.795334 with training error 0.001671 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:30.795753 with 2 inputs, 1 outputs, [8] hidden layers, size of training set 4, and size of test set 4
+Finished after 6123 iterations at time 14:06:31.220991 with training error 0.001316 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:31.221370 with 2 inputs, 1 outputs, [9] hidden layers, size of training set 4, and size of test set 4
+Finished after 5844 iterations at time 14:06:31.678261 with training error 0.001598 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:31.678677 with 2 inputs, 1 outputs, [10] hidden layers, size of training set 4, and size of test set 4
+Finished after 5401 iterations at time 14:06:32.134567 with training error 0.001851 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:32.134949 with 2 inputs, 1 outputs, [11] hidden layers, size of training set 4, and size of test set 4
+Finished after 5325 iterations at time 14:06:32.627723 with training error 0.001848 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:32.628122 with 2 inputs, 1 outputs, [12] hidden layers, size of training set 4, and size of test set 4
+Finished after 7138 iterations at time 14:06:33.322304 with training error 0.001425 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:33.322711 with 2 inputs, 1 outputs, [13] hidden layers, size of training set 4, and size of test set 4
+Finished after 6301 iterations at time 14:06:33.984327 with training error 0.001600 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:33.984758 with 2 inputs, 1 outputs, [14] hidden layers, size of training set 4, and size of test set 4
+Finished after 5036 iterations at time 14:06:34.550971 with training error 0.001670 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:34.551381 with 2 inputs, 1 outputs, [15] hidden layers, size of training set 4, and size of test set 4
+Finished after 6067 iterations at time 14:06:35.272628 with training error 0.001562 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:35.273077 with 2 inputs, 1 outputs, [16] hidden layers, size of training set 4, and size of test set 4
+Finished after 6173 iterations at time 14:06:36.055229 with training error 0.001912 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:36.055667 with 2 inputs, 1 outputs, [17] hidden layers, size of training set 4, and size of test set 4
+Finished after 6197 iterations at time 14:06:36.880103 with training error 0.001663 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:36.880514 with 2 inputs, 1 outputs, [18] hidden layers, size of training set 4, and size of test set 4
+Finished after 4955 iterations at time 14:06:37.586597 with training error 0.001991 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:37.587013 with 2 inputs, 1 outputs, [19] hidden layers, size of training set 4, and size of test set 4
+Finished after 6588 iterations at time 14:06:38.556984 with training error 0.001481 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:38.557403 with 2 inputs, 1 outputs, [20] hidden layers, size of training set 4, and size of test set 4
+Finished after 6012 iterations at time 14:06:39.489737 with training error 0.001596 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:39.490191 with 2 inputs, 1 outputs, [21] hidden layers, size of training set 4, and size of test set 4
+Finished after 5285 iterations at time 14:06:40.349354 with training error 0.001770 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:40.349780 with 2 inputs, 1 outputs, [22] hidden layers, size of training set 4, and size of test set 4
+Finished after 5403 iterations at time 14:06:41.277109 with training error 0.001746 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:41.277648 with 2 inputs, 1 outputs, [23] hidden layers, size of training set 4, and size of test set 4
+Finished after 5466 iterations at time 14:06:42.242558 with training error 0.001801 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:42.242992 with 2 inputs, 1 outputs, [24] hidden layers, size of training set 4, and size of test set 4
+Finished after 4426 iterations at time 14:06:43.082183 with training error 0.001865 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:43.082622 with 2 inputs, 1 outputs, [25] hidden layers, size of training set 4, and size of test set 4
+Finished after 5233 iterations at time 14:06:44.084007 with training error 0.001784 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:44.084450 with 2 inputs, 1 outputs, [26] hidden layers, size of training set 4, and size of test set 4
+Finished after 4999 iterations at time 14:06:45.130357 with training error 0.001934 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:45.130808 with 2 inputs, 1 outputs, [27] hidden layers, size of training set 4, and size of test set 4
+Finished after 5072 iterations at time 14:06:46.174478 with training error 0.001862 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:46.174970 with 2 inputs, 1 outputs, [28] hidden layers, size of training set 4, and size of test set 4
+Finished after 5231 iterations at time 14:06:47.290575 with training error 0.001694 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:47.291032 with 2 inputs, 1 outputs, [29] hidden layers, size of training set 4, and size of test set 4
+Finished after 5426 iterations at time 14:06:48.656096 with training error 0.001763 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:48.656549 with 2 inputs, 1 outputs, [30] hidden layers, size of training set 4, and size of test set 4
+Finished after 4175 iterations at time 14:06:49.683541 with training error 0.002042 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:49.684012 with 2 inputs, 1 outputs, [31] hidden layers, size of training set 4, and size of test set 4
+Finished after 4780 iterations at time 14:06:50.857898 with training error 0.002091 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:50.858402 with 2 inputs, 1 outputs, [32] hidden layers, size of training set 4, and size of test set 4
+Finished after 4536 iterations at time 14:06:51.966854 with training error 0.001992 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:51.967327 with 2 inputs, 1 outputs, [33] hidden layers, size of training set 4, and size of test set 4
+Finished after 4853 iterations at time 14:06:53.183905 with training error 0.001865 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:53.184414 with 2 inputs, 1 outputs, [34] hidden layers, size of training set 4, and size of test set 4
+Finished after 1 iterations at time 14:06:53.185570 with training error 0.249587 and weight change 0.000008
+Feed Forward Test correctly classified 2, incorrectly classified 2, test percent error  0.500000
+
+Starting training at time 14:06:53.185957 with 2 inputs, 1 outputs, [35] hidden layers, size of training set 4, and size of test set 4
+Finished after 4760 iterations at time 14:06:54.305615 with training error 0.001936 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:54.306112 with 2 inputs, 1 outputs, [36] hidden layers, size of training set 4, and size of test set 4
+Finished after 4069 iterations at time 14:06:55.223264 with training error 0.001966 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:55.223972 with 2 inputs, 1 outputs, [37] hidden layers, size of training set 4, and size of test set 4
+Finished after 4564 iterations at time 14:06:56.267679 with training error 0.001861 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:56.268105 with 2 inputs, 1 outputs, [38] hidden layers, size of training set 4, and size of test set 4
+Finished after 4594 iterations at time 14:06:57.347804 with training error 0.002117 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:57.348235 with 2 inputs, 1 outputs, [39] hidden layers, size of training set 4, and size of test set 4
+Finished after 4162 iterations at time 14:06:58.347618 with training error 0.001990 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:58.348050 with 2 inputs, 1 outputs, [40] hidden layers, size of training set 4, and size of test set 4
+Finished after 4631 iterations at time 14:06:59.483272 with training error 0.002048 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:06:59.483772 with 2 inputs, 1 outputs, [41] hidden layers, size of training set 4, and size of test set 4
+Finished after 4222 iterations at time 14:07:00.549199 with training error 0.002028 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:00.549665 with 2 inputs, 1 outputs, [42] hidden layers, size of training set 4, and size of test set 4
+Finished after 5247 iterations at time 14:07:01.878494 with training error 0.002009 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:01.878973 with 2 inputs, 1 outputs, [43] hidden layers, size of training set 4, and size of test set 4
+Finished after 4553 iterations at time 14:07:03.075993 with training error 0.002065 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:03.076433 with 2 inputs, 1 outputs, [44] hidden layers, size of training set 4, and size of test set 4
+Finished after 4209 iterations at time 14:07:04.192489 with training error 0.002020 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:04.192967 with 2 inputs, 1 outputs, [45] hidden layers, size of training set 4, and size of test set 4
+Finished after 3838 iterations at time 14:07:05.242146 with training error 0.002299 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:05.242640 with 2 inputs, 1 outputs, [46] hidden layers, size of training set 4, and size of test set 4
+Finished after 4805 iterations at time 14:07:06.558873 with training error 0.001951 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:06.559411 with 2 inputs, 1 outputs, [47] hidden layers, size of training set 4, and size of test set 4
+Finished after 4668 iterations at time 14:07:07.893779 with training error 0.002022 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:07.894233 with 2 inputs, 1 outputs, [48] hidden layers, size of training set 4, and size of test set 4
+Finished after 3962 iterations at time 14:07:09.038261 with training error 0.002064 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+Starting training at time 14:07:09.038707 with 2 inputs, 1 outputs, [49] hidden layers, size of training set 4, and size of test set 4
+Finished after 4141 iterations at time 14:07:10.292425 with training error 0.002046 and weight change 0.000080
+Feed Forward Test correctly classified 4, incorrectly classified 0, test percent error  1.000000
+
+[0.9375207577392066]
